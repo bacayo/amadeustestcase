@@ -1,0 +1,36 @@
+{
+  "countries": [
+    {
+      "id": "1",
+      "name": "Bangladesh",
+      "cities": [
+        {
+          "id": "11",
+          "name": "Kālia"
+        },
+        {
+          "id": "12",
+          "name": "Dhaka"
+        },
+        {
+          "id": "unique-city-id-3",
+          "name": "Chittagong"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Another Country",
+      "cities": [
+        {
+          "id": "20",
+          "name": "City A"
+        },
+        {
+          "id": "21",
+          "name": "City B"
+        }
+      ]
+    }
+  ]
+}
